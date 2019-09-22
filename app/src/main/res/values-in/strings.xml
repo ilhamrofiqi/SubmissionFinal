@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Submission Terakhir</string>
+    <string name="title_movies">Film</string>
+    <string name="title_tv_show">Tv Serial</string>
+    <string name="title_favorite">Suka</string>
+    <string name="title_delete">Hapus</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="change_langunage_settings">Terjemah</string>
+
+    <!--Movies-->
+    <string name="navigation_movies">Film</string>
+    <string name="movies_title">Judul</string>
+    <string name="movies_poster_path">Poster</string>
+    <string name="movies_overview">Sinopsis</string>
+    <string name="movies_release_date">Rilis</string>
+    <string name="movies_vote">Skor</string>
+    <string name="movies_rating">Peringkat</string>
+
+    <!--Tv Show-->
+    <string name="navigation_tv_show">Tv Serial</string>
+    <string name="tv_show_name">Judul</string>
+    <string name="tv_show_backdrop_path">Poster</string>
+    <string name="tv_show_overview">Sinopsis</string>
+    <string name="tv_show_first_air_date">Rilis</string>
+    <string name="tv_show_vote">Skor</string>
+    <string name="tv_show_rating">Peringkat</string>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="appwidget_text_tv_show">Tv Serial Favorit</string>
+    <string name="empty_text">Data Tidak Ada</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

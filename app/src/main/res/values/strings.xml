@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Submission Final</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_tv_show">Tv Show</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_delete">Delete</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="change_langunage_settings">Translate</string>
+
+    <!--Movies-->
+    <string name="navigation_movies">Movies</string>
+    <string name="movies_title">Title</string>
+    <string name="movies_poster_path">Poster</string>
+    <string name="movies_overview">Overview</string>
+    <string name="movies_release_date">Release</string>
+    <string name="movies_vote">Vote</string>
+    <string name="movies_rating">Rating</string>
+
+    <!--Tv Show-->
+    <string name="navigation_tv_show">Tv Show</string>
+    <string name="tv_show_name">Name</string>
+    <string name="tv_show_backdrop_path">Backdrop</string>
+    <string name="tv_show_overview">Overview</string>
+    <string name="tv_show_first_air_date">Release</string>
+    <string name="tv_show_vote">Vote</string>
+    <string name="tv_show_rating">Rating</string>
+    <string name="appwidget_text">Film Favorite</string>
+    <string name="appwidget_text_tv_show">Tv Show Favorite</string>
+    <string name="empty_text">No Data</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
